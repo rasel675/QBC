@@ -70,3 +70,10 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "byebug", "~> 11.1"
+
+gem "annotate", "~> 3.2"
+gem "bootstrap"
+
+gem "sassc-rails"  
